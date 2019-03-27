@@ -1,2 +1,2 @@
-Run dataRace, for data race Program
-Run notDataRace, for non data race Program
+Run inconsistent, for inconsistentProgram
+Run consistent, for consistent Program
